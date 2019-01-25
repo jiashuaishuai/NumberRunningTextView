@@ -19,3 +19,4 @@
 
 ```
 
+![](https://github.com/jiashuaishuai/NumberRunningTextView/blob/master/6EBFB1CA24A498FA7E2E61F916356858.gif)
